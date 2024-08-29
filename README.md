@@ -1,4 +1,5 @@
 # MediTranslateAI
+## Final Year Project - Noy Tsafrir & Shachar Felman
 
 MediTranslateAI is an advanced medical translation application designed to accurately translate medical leaflets from Hebrew to English. It leverages state-of-the-art language models and evaluation metrics to ensure high-quality translations of complex medical terminology and information.
 
