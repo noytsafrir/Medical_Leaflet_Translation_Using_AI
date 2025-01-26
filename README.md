@@ -1,7 +1,8 @@
 # MediTranslateAI
 ## Final Year Project - Noy Tsafrir & Shachar Felman
 
-MediTranslateAI is an advanced medical translation application designed to accurately translate medical leaflets from Hebrew to English. It leverages state-of-the-art language models and evaluation metrics to ensure high-quality translations of complex medical terminology and information.
+MediTranslateAI is an advanced medical translation application designed to accurately translate medical leaflets from Hebrew to English. 
+It leverages state-of-the-art language models and evaluation metrics to ensure high-quality translations of complex medical terminology and information.
 
 ## Features
 
@@ -22,25 +23,14 @@ MediTranslateAI is an advanced medical translation application designed to accur
 ![Translating](https://github.com/user-attachments/assets/b9530efc-cbd0-4e04-afe8-530b2b959a05)
 ![file downloaded](https://github.com/user-attachments/assets/47426944-a2f9-45b2-ba9d-541116ba0f0c)
 
-## Prerequisites
+## Technologies Stack
 
-- Docker and Docker Compose
-- Node.js and npm (for local development)
-- Python 3.11 (for local development)
-
-## Installation and Setup
-
-1. Set up environment variables:
-   - Copy `.example.env` files to `.env.development` and `.env.test`
-   - Fill in the required API keys and configuration values
-
-2. Start the development environment:
-   ```
-   ./dev.ps1
-   ```
-   This will build and start the Flask backend, React frontend, and MongoDB containers.
-
-3. Access the application at `http://localhost:5173`
+- User Interface - React.js
+- Server - Python, Flask
+- Database - MongoDB
+- Containerization - Docker
+- Environment -  VSCode
+- LLM Framework- LangChain
 
 ## Usage
 
