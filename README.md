@@ -12,6 +12,17 @@ MediTranslateAI is an advanced medical translation application designed to accur
 - Generate downloadable DOCX files of translations
 - User-friendly web interface for easy interaction
 
+## System Architecture
+
+![Block Diagram](https://github.com/user-attachments/assets/43e27695-402a-481f-8340-9968e52ac921)
+
+## ScreenShots - Web Interface
+
+![full](https://github.com/user-attachments/assets/e4b69b4d-f472-4480-a64c-8d5ad2f371e9)
+![Translate Button](https://github.com/user-attachments/assets/70456ba4-bcd2-4647-bf5d-ddcc5f7ab4ad)
+![Translating](https://github.com/user-attachments/assets/b9530efc-cbd0-4e04-afe8-530b2b959a05)
+![Download- file downloaded](https://github.com/user-attachments/assets/47426944-a2f9-45b2-ba9d-541116ba0f0c)
+
 ## Prerequisites
 
 - Docker and Docker Compose
